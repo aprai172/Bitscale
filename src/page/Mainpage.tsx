@@ -1,4 +1,4 @@
-import React, { useState, useRef, useMemo } from "react";
+import  { useState, useRef, useMemo } from "react";
 import { LayoutGrid, AlertCircle } from "lucide-react";
 import { Header } from "../components/Header";
 import { Toolbar } from "../components/Toolbar";
